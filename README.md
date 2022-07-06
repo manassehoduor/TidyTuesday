@@ -9,3 +9,7 @@
 ## [wk 26] - UK Gender Pay Gap!
 
 ![_pay_gap](https://user-images.githubusercontent.com/20558188/176538881-68ca2d92-ea08-4f40-b564-8ee1c775db10.png)
+
+## [wk 27] - San Francisco Rents
+
+![sanF_rent](https://user-images.githubusercontent.com/20558188/177530216-aab5abf4-da6d-47a0-bcac-3bb2f9bb9c0e.png)
