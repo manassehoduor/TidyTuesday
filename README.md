@@ -13,3 +13,11 @@
 ## [wk 27] - San Francisco Rents
 
 ![sanF_rent](https://user-images.githubusercontent.com/20558188/177530216-aab5abf4-da6d-47a0-bcac-3bb2f9bb9c0e.png)
+
+## [wk 28] - European flights
+
+![flight](https://user-images.githubusercontent.com/20558188/180727017-d559a8d1-e8cd-4d45-8020-1dc5e95747b3.png)
+
+
+
+
