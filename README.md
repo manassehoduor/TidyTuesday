@@ -18,6 +18,7 @@
 
 ![flight](https://user-images.githubusercontent.com/20558188/180727017-d559a8d1-e8cd-4d45-8020-1dc5e95747b3.png)
 
+## [wk 29] - Technology Adoption
 
-
+![tech](https://user-images.githubusercontent.com/20558188/181265845-98053ebe-3c8f-4bd4-a527-f77b85195bc9.png)
 
