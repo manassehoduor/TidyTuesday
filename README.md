@@ -22,3 +22,4 @@
 
 ![tech](https://user-images.githubusercontent.com/20558188/181265845-98053ebe-3c8f-4bd4-a527-f77b85195bc9.png)
 
+![tech12](https://user-images.githubusercontent.com/20558188/181429349-35129f33-75d5-4187-b1b8-766b11519336.gif)
