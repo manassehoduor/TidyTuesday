@@ -6,7 +6,7 @@
 
 ![eGG_Prod](https://user-images.githubusercontent.com/20558188/231865790-52a5ccba-79ba-4dfb-b97c-7d7f7fc1b69e.png)
 
-### [wk 14] - English Premier League
+### [wk 14] - [English Premier League](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_14)
 
 ![epl_2022_standings](https://user-images.githubusercontent.com/20558188/230353382-143ed80f-fc44-418e-9be9-840762344658.png)
 
