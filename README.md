@@ -2,7 +2,7 @@
 
 ## 2023
 
-### [wk 15] - [Egg Production in US](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_15)
+### [wk 15] - [US Egg Production](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_15)
 
 ![Eggz](https://user-images.githubusercontent.com/20558188/231898960-1d6ab3fa-5d68-45fb-93c8-eff65d5af15f.png)
 
