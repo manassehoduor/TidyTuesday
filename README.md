@@ -4,6 +4,8 @@
 
 ### [wk 15] - [Egg Production in US](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_15)
 
+![Eggz](https://user-images.githubusercontent.com/20558188/231896400-5300bcda-eb16-4353-9f6a-904884a48455.png)
+
 ![eGG_Prod](https://user-images.githubusercontent.com/20558188/231865790-52a5ccba-79ba-4dfb-b97c-7d7f7fc1b69e.png)
 
 ### [wk 14] - [English Premier League](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_14)
