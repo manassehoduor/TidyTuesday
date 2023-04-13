@@ -25,7 +25,7 @@ eggproduction <- readr::read_csv('https://raw.githubusercontent.com/rfordatascie
 cap <-  paste0("<span style='font-family:fb;'>&#xf09b;</span>",
                "<span style='font-family:sans;color:white;'>.</span>",
                "<span style='font-family:sans;'> Manasseh Oduor </span>",
-               "<span style='font-family:fb;'>&#xf099; </span>  Manasseh_6 | #TidyTuesday: wk 15 | Source: Samara Mendez | Data coverage: July 2016 : Feb 2021")
+               "<span style='font-family:fb;'>&#xf099; </span>  Manasseh_6 | #TidyTuesday: wk 15 <br>Source: Samara Mendez | Data coverage: July 2016 : Feb 2021")
 # data wrangle
 eggprod <- eggproduction |>
   select(observed_month, prod_type, n_eggs) |>
@@ -43,7 +43,6 @@ eggprod_month_year <- eggprod |>
 eggprod_month_year_table_eggs <- eggprod_month_year |>
   filter(prod_type == 'table eggs')
 
-
 # Plot
 eggprod_month_year_table_eggs |> 
   ggplot(aes(y = month, x = year)) +
@@ -60,7 +59,7 @@ eggprod_month_year_table_eggs |>
   labs(x = "Year",
        y = "Month",
        caption = cap,
-       title = '<br>Production of Eggs in the US',
+       title = '<br>US Egg Production',
        subtitle = "The demand for table eggs has remained consistent over the years.<br>In July 2016, the production of table eggs peaked with a median of 245 million trays produced") +
   theme(
     text = element_text(family = "Roboto Condensed"),
@@ -71,7 +70,7 @@ eggprod_month_year_table_eggs |>
     plot.subtitle = element_markdown(family = "Roboto Condensed", colour = "#fcd34d",
                                      size = 16, hjust = 0.1),
     plot.caption = element_textbox_simple(
-      lineheight = 1, colour = "black", size = 14, hjust = 0.5, margin = margin(t=30,b=5), 
+      lineheight = 1, colour = "#fefce8", size = 14, hjust = 0.5, margin = margin(t=15,b=5), 
       family = "Rosario"),
     axis.title.x = element_text(family = "Roboto Condensed", size = 15, vjust = -3, face = "bold"),
     axis.title.y = element_text(family = "Roboto Condensed", size = 15, face = "bold"),
