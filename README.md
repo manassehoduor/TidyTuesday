@@ -30,7 +30,7 @@
 
 ![sanF_rent](https://user-images.githubusercontent.com/20558188/177530216-aab5abf4-da6d-47a0-bcac-3bb2f9bb9c0e.png)
 
-### [wk 26] - UK Gender Pay Gap!
+### [wk 26] - [UK Gender Pay Gap!](https://github.com/manassehoduor/TidyTuesday/tree/main/2022/wk_26)
 
 ![_pay_gap](https://user-images.githubusercontent.com/20558188/176538881-68ca2d92-ea08-4f40-b564-8ee1c775db10.png)
 
