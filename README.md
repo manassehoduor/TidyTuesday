@@ -22,7 +22,7 @@
 
 ![tech12](https://user-images.githubusercontent.com/20558188/181429349-35129f33-75d5-4187-b1b8-766b11519336.gif)
 
-### [wk 28] - European flights
+### [wk 28] - [European Flights](https://github.com/manassehoduor/TidyTuesday/tree/main/2022/wk_28)
 
 ![flight](https://user-images.githubusercontent.com/20558188/180727017-d559a8d1-e8cd-4d45-8020-1dc5e95747b3.png)
 
