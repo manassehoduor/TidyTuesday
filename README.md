@@ -2,6 +2,10 @@
 
 ## 2023
 
+### [wk 16] - Neolithic Founder Crops
+
+![crops](https://user-images.githubusercontent.com/20558188/233631622-e38a39b3-40e7-418b-a2b0-29acfa616f08.png)
+
 ### [wk 15] - [US Egg Production](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_15)
 
 ![Eggz](https://user-images.githubusercontent.com/20558188/231898960-1d6ab3fa-5d68-45fb-93c8-eff65d5af15f.png)
