@@ -2,7 +2,7 @@
 
 ## 2023
 
-### [wk 16] - Neolithic Founder Crops
+### [wk 16] - [Neolithic Founder Crops](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_16)
 
 ![crops](https://user-images.githubusercontent.com/20558188/233631622-e38a39b3-40e7-418b-a2b0-29acfa616f08.png)
 
