@@ -1,7 +1,10 @@
 # TidyTuesday 
 
 ## 2023
+
 ### [wk 17] - [London Marathon](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_17)
+
+![marathon_edited](https://user-images.githubusercontent.com/20558188/234508870-df0a6b0b-31c0-4c0e-9a73-8778fd3a1fbf.png)
 
 ![marathon](https://user-images.githubusercontent.com/20558188/234387194-ee40ccb4-9f61-43e4-bfae-87c723a91cf7.png)
 
