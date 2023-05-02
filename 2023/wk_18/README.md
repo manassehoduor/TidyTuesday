@@ -1,5 +1,5 @@
 ## THE PORTAL PROJECT
- A LONG-TERM STUDY OF A CHIHUAHUAN DESERT ECOSYSTEM
+ A long-term study of a Chihuahuan desert Ecosystem
 
 ![rodent](https://user-images.githubusercontent.com/20558188/235670014-9d46770f-8892-4bcd-ba94-36dd2f5507d9.png)
 
