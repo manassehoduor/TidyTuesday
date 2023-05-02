@@ -6,5 +6,5 @@
 
 ![White-throated woodrat-Neotama albigula](https://user-images.githubusercontent.com/20558188/235670041-3e0b7798-d972-4485-87e6-f4d4031499a2.jpg)
 
-Coyyright of White-throated woodrat image: George H. H. Huey
+Copyright of White-throated woodrat image: George H. H. Huey
 
