@@ -2,6 +2,10 @@
 
 ## 2023
 
+### ChildCare Costs!
+
+![childcare](https://user-images.githubusercontent.com/20558188/237049281-6a22b59c-51b7-46d6-8ad3-6cb5cd0a1fea.png)
+
 ### [wk_18] - [The Portal Project](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_18)
 
 ![rodent](https://user-images.githubusercontent.com/20558188/235680512-6f48cfaa-adb5-4857-a9e6-f1397aea104b.png)
