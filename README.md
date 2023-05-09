@@ -2,7 +2,7 @@
 
 ## 2023
 
-###  [wk_19] - ChildCare Costs!
+###  [wk_19] - [ChildCare Costs!](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_19)
 
 ![childcare](https://user-images.githubusercontent.com/20558188/237049281-6a22b59c-51b7-46d6-8ad3-6cb5cd0a1fea.png)
 
