@@ -1,4 +1,4 @@
-## Tornados in US
+## Tornados!
 
 Data link: https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-05-16/readme.md
 
