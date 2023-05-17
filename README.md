@@ -2,7 +2,7 @@
 
 ## 2023
 
-###  [wk_19] - Tornados
+###  [wk_20] - Tornados
 
 ![Tornados](https://github.com/manassehoduor/TidyTuesday/assets/20558188/88f83772-cc22-4f5f-bad7-8208602d41b2)
 
