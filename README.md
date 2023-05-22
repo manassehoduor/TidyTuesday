@@ -2,6 +2,10 @@
 
 ## 2023
 
+###  [wk_21] - [Central Park Squirrel Census](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_21)
+
+![Squirrel3](https://github.com/manassehoduor/TidyTuesday/assets/20558188/86ac9573-f0c6-4659-b3c4-bd4000ae131c)
+
 ###  [wk_20] - [Tornados](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_20)
 
 ![Tornados](https://github.com/manassehoduor/TidyTuesday/assets/20558188/88f83772-cc22-4f5f-bad7-8208602d41b2)
