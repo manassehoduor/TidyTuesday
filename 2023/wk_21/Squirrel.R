@@ -1,6 +1,6 @@
 
 # load libraries
-pacman::p_load(tidyverse, janitor, lubridate, showtext, ggtext, hrbrthemes, patchwork)
+pacman::p_load(tidyverse, janitor, lubridate, showtext, ggtext, hrbrthemes, patchwork, ggmosaic)
 
 # Import fonts
 font_add_google(name = "Roboto Condensed", family = "Roboto Condensed")
@@ -14,7 +14,7 @@ showtext_auto(enable = TRUE)
 cap <-  paste0("<span style='font-family:fb;'>&#xf09b;</span>",
                "<span style='font-family:sans;color:white;'></span>",
                "<span style='font-family:Rosario;'> Manasseh Oduor   </span>",
-               "<span style='font-family:fb;'>&#xf099; </span>  Manasseh_6 | #TidyTuesday wk:21 | Source: data.cityofnewyork.us")
+               "<span style='font-family:fb;'>&#xf099; </span>  Manasseh_6 | #TidyTuesday wk:21 | Source: NYC OpenData")
 
 # load data
 squirrel_data <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-05-23/squirrel_data.csv')
@@ -24,6 +24,7 @@ squirrel_df <- squirrel_data |>
   select(Date,Shift,Age,`Primary Fur Color`,Location,Approaches,`Runs from`) |>
   clean_names() |>
   drop_na() |>
+  filter(!age == "?") |>
   mutate(date = as.Date(as.character(date), format = "%m%d%Y"),
          day = day(date),
          month = month(date),
@@ -100,22 +101,56 @@ p2 <- squirrel_df2 |>
     strip.text = element_text(face = "bold", size = 18),
     panel.grid.minor = element_blank(),
     panel.grid.major = element_blank())
-
+    
 # Patching
 (p1 / p2) +
   plot_annotation(
-    title = "Central Park Squirrel Census",
-    subtitle = "The majority of squirrel sightings were observed during the late afternoon on Saturdays<br>*Tuesday had no census activity",
+    title = "Central Park Squirrel Census in New York",
+    subtitle = "In October 2018, the majority of squirrel sightings were observed during the late afternoon on Saturdays<br>*Tuesday had no census activity",
     caption = cap,
     theme = theme(
       plot.title = element_markdown(family = "Roboto Condensed", colour = "white", face = "bold",
-                                    size = 40, hjust = 0.5, margin = margin(t = 5, b = 5)),
+                                    size = 38, hjust = 0.5, margin = margin(t = 5, b = 5)),
       plot.subtitle = element_markdown(family = "Roboto Condensed", colour = "#d9ceff",
-                                       size = 30, hjust = 0, margin = margin(t = 5, b = 5)),
+                                       size = 28, hjust = 0, margin = margin(t = 5, b = 5)),
       plot.background = element_rect(fill = "#1d1616", color = NA),
       panel.background = element_rect(fill = "#1d1616", color = NA),
       plot.caption = element_markdown(colour = 'white', hjust = 0.5, size = 20,
                                       family = 'Rosario', margin = margin(t = 20, b = 10))))
 
 # save plot
-ggsave("Squirrel3.png", height=20, width=16, bg = "#1d1616")
+ggsave("Squirrel3.png", height=20, width=17, bg = "#1d1616")
+
+legend_colors <- c("Above Ground" = "#5f35d4", "Ground Plane" = "#aa8424")
+
+# Mosaic Plot
+squirrel_df |>
+  mutate(day_of_week = factor(day_of_week, levels = dow_order)) |>
+  ggplot() +
+  geom_mosaic(aes(x = product(day_of_week), conds = product(shift), fill = location), offset = 0.015) +
+  stat_mosaic_text(aes(x = product(day_of_week), conds = product(shift), 
+                       fill = location), offset = 0.015, 
+                   family = "Roboto Condensed", color = "#effaf1", size = 3.5) +
+  scale_fill_manual(values = legend_colors) +
+  labs(
+    caption = cap,
+    x = "",
+    y = "",
+    title = "Central Park Squirrel Census in New York") +
+  theme_modern_rc() +
+  theme(
+    text = element_text(),
+    plot.title = element_text(family = "Roboto Condensed", colour = "#e7f1a5", face = "bold",
+                                  size = 30, hjust = 0.5, margin = margin(t = 5, b = 0)),
+    axis.title.x  = element_blank(),
+    axis.title.y  = element_blank(),
+    axis.text.x = element_blank(),
+    axis.text.y = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major = element_blank(),
+    plot.caption = element_markdown(colour = 'white', hjust = 0.9, size = 13,
+                                    family = 'Rosario', margin = margin(t = 0, b = 0))) +
+    guides(fill = "none")
+
+# save plot
+ggsave("Squirrel4.png", height=12, width=12, bg = "#1d1616")
