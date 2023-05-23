@@ -6,6 +6,8 @@
 
 ![Squirrel3](https://github.com/manassehoduor/TidyTuesday/assets/20558188/fca44c50-0248-4a78-b57c-1b029571b744)
 
+![Squirrel4](https://github.com/manassehoduor/TidyTuesday/assets/20558188/907ac134-b4c3-4dd2-9d02-bd4eaecc419e)
+
 ###  [wk_20] - [Tornados](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_20)
 
 ![Tornados](https://github.com/manassehoduor/TidyTuesday/assets/20558188/88f83772-cc22-4f5f-bad7-8208602d41b2)
