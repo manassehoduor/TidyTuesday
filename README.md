@@ -4,6 +4,8 @@
 
 ###  [wk_22] - [Verified Oldest People](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_22)
 
+![centenarians_edited](https://github.com/manassehoduor/TidyTuesday/assets/20558188/dd384b45-2afa-40bb-bbba-d7bb6fe2eb34)
+
 ![centenarians](https://github.com/manassehoduor/TidyTuesday/assets/20558188/eedc03a4-a566-457b-8f75-f2967387426d)
 
 ###  [wk_21] - [Central Park Squirrel Census](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_21)
