@@ -12,7 +12,7 @@
 
 ![EA2](https://github.com/manassehoduor/TidyTuesday/assets/20558188/0943fc83-970a-4cd7-be57-83531235a0b6)
 
-###  [wk_22] - [Verified Oldest People](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_22)
+###  [wk 22] - [Verified Oldest People](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_22)
 
 ![centenarians_edited](https://github.com/manassehoduor/TidyTuesday/assets/20558188/dd384b45-2afa-40bb-bbba-d7bb6fe2eb34)
 
