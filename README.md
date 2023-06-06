@@ -2,6 +2,16 @@
 
 ## 2023
 
+### [WK 23] - [Energy!]
+
+![africa1](https://github.com/manassehoduor/TidyTuesday/assets/20558188/37f34a29-04e4-4c8e-a124-3711c1803f43)
+
+![africa2](https://github.com/manassehoduor/TidyTuesday/assets/20558188/1be5e4c3-16e2-45b1-b590-cd6d90703794)
+
+![EA](https://github.com/manassehoduor/TidyTuesday/assets/20558188/4ad59d23-4987-4699-8176-1a5be51cc8bb)
+
+![EA2](https://github.com/manassehoduor/TidyTuesday/assets/20558188/0943fc83-970a-4cd7-be57-83531235a0b6)
+
 ###  [wk_22] - [Verified Oldest People](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_22)
 
 ![centenarians_edited](https://github.com/manassehoduor/TidyTuesday/assets/20558188/dd384b45-2afa-40bb-bbba-d7bb6fe2eb34)
