@@ -18,7 +18,7 @@
 
 ![centenarians](https://github.com/manassehoduor/TidyTuesday/assets/20558188/eedc03a4-a566-457b-8f75-f2967387426d)
 
-###  [wk_21] - [Central Park Squirrel Census](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_21)
+###  [wk 21] - [Central Park Squirrel Census](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_21)
 
 ![Squirrel3](https://github.com/manassehoduor/TidyTuesday/assets/20558188/fca44c50-0248-4a78-b57c-1b029571b744)
 
