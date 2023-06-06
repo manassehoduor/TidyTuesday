@@ -105,9 +105,9 @@ ggsave("africa1.png", height=10, width=9, bg = "#F9F9F9")
 energy_df1 |>
   ggplot(aes(country = iso_code, fill = mean_per_cap_elec)) +
   geom_countrybins_africa(
-    radius = unit(0, "pt"),
-    family = "Roboto Condensed", size = 0.5) +
-  scale_fill_gradient(low = "#fca5a5", high = "#b91c1c", name = "Mean (KWh)") +
+    family = "Roboto Condensed") +
+  scale_fill_gradient(low = "#fca5a5", high = "#7f1d1d", name = "Mean (KWh)") +
+  coord_fixed() +
   labs(
     title = "Per Capita Electricity Generation in Africa",
     subtitle = "Data: {2000:2021} measured in kilowatt-hours",
@@ -139,14 +139,8 @@ ggsave("africa2.png", height=10, width=9, bg = "#F9F9F9")
 newggslopegraph(EA, year, per_capita_electricity, country,
                 Title = "Per Capita Electricity Generation Evolution in East Africa",
                 SubTitle = "Evolution of Per Capita Electricity Generation {2012-2021}, measured in kilowatt-hours",
-                LineColor = cols,
-                DataTextSize = 3,
-                DataTextColor = "#a16207",
-                LineThickness = 0.5,
-                XTextSize = 15,
-                YTextSize = 3.5,
-                ThemeChoice = "ipsum",
-                Caption = cap) +
+                LineColor = cols, DataTextSize = 3, DataTextColor = "#a16207", LineThickness = 0.5, XTextSize = 15, YTextSize = 3.5,
+                ThemeChoice = "ipsum", Caption = cap) +
   theme(
     legend.position = "none",
     text = element_text(family = "Roboto Condensed", size = 12),
@@ -161,19 +155,12 @@ newggslopegraph(EA, year, per_capita_electricity, country,
 
 ggsave("EA.png", height=8, width=8, bg = "#F9F9F9")
 
-
 # plot 4
 newggslopegraph(EA2, year, per_capita_electricity, country,
                 Title = "Per Capita Electricity Generation Evolution in East Africa",
                 SubTitle = "Evolution of Per Capita Electricity Generation {2012-2021}, measured in kilowatt-hours",
-                LineColor = cols2,
-                DataTextSize = 3,
-                DataTextColor = "#a16207",
-                LineThickness = 0.5,
-                XTextSize = 15,
-                YTextSize = 3.5,
-                ThemeChoice = "ipsum",
-                Caption = cap) +
+                LineColor = cols2, DataTextSize = 3, DataTextColor = "#a16207", LineThickness = 0.5, XTextSize = 15, YTextSize = 3.5,
+                ThemeChoice = "ipsum", Caption = cap) +
   theme(
     legend.position = "none",
     text = element_text(family = "Roboto Condensed", size = 12),
@@ -187,4 +174,3 @@ newggslopegraph(EA2, year, per_capita_electricity, country,
     plot.margin = margin(b = 10, t = 20, r = 5, l = 20))
 
 ggsave("EA2.png", height=8, width=8, bg = "#F9F9F9")
-
