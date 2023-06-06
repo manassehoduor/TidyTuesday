@@ -6,7 +6,7 @@
 
 ![africa1](https://github.com/manassehoduor/TidyTuesday/assets/20558188/37f34a29-04e4-4c8e-a124-3711c1803f43)
 
-![africa2](https://github.com/manassehoduor/TidyTuesday/assets/20558188/1be5e4c3-16e2-45b1-b590-cd6d90703794)
+![africa2](https://github.com/manassehoduor/TidyTuesday/assets/20558188/09ed7932-8a1e-43d7-948a-d1ab7667a4d9)
 
 ![EA](https://github.com/manassehoduor/TidyTuesday/assets/20558188/4ad59d23-4987-4699-8176-1a5be51cc8bb)
 
