@@ -2,7 +2,7 @@
 
 ## 2023
 
-### [WK 23] - [Energy!](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_23)
+### [wk 23] - [Energy!](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_23)
 
 ![africa1](https://github.com/manassehoduor/TidyTuesday/assets/20558188/37f34a29-04e4-4c8e-a124-3711c1803f43)
 
