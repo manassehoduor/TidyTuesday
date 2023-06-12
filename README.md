@@ -9,8 +9,8 @@
 ![africa2](https://github.com/manassehoduor/TidyTuesday/assets/20558188/09ed7932-8a1e-43d7-948a-d1ab7667a4d9)
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/4ad59d23-4987-4699-8176-1a5be51cc8bb" alt="Plot 1" width="400"/>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/0943fc83-970a-4cd7-be57-83531235a0b6" alt="Plot 2" width="400"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/4ad59d23-4987-4699-8176-1a5be51cc8bb" alt="Plot 1" width="500"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/0943fc83-970a-4cd7-be57-83531235a0b6" alt="Plot 2" width="500"/>
 </div>
 
 ![KE_EP](https://github.com/manassehoduor/TidyTuesday/assets/20558188/f5f29699-5102-495e-92a5-454a236cc085)
