@@ -4,7 +4,7 @@
 
 ### [wk 24] - [SAFI - Studying African Farmer-Led Irrigation](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_24)
 
-![safi_items](https://github.com/manassehoduor/TidyTuesday/assets/20558188/c0e85678-c2f9-45b8-934b-07bc7cf3da41)
+![safi_items](https://github.com/manassehoduor/TidyTuesday/assets/20558188/27029b14-5bb1-4d5d-a93e-c648b2c34a0a)
 
 ![items_member](https://github.com/manassehoduor/TidyTuesday/assets/20558188/4cf0d93d-b3de-4286-a341-38d2ff2313aa)
 
