@@ -1,4 +1,3 @@
-
 # load packages
 pacman::p_load(tidyverse, ggtext, showtext, ggcharts, patchwork)
 
@@ -73,14 +72,16 @@ p2 = items_owned_safi |>
 # Patch work
 (p1 + plot_spacer() + plot_layout(nrow = 1, widths = c(1, 0.02, 1)) + p2) +
   plot_annotation(
-    title = "Which Items are mentioned less/more frequently in households' ownership?",
+    title = "Studying African Farmer-Led Irrigation (SAFI)",
+    subtitle = "Which Items are mentioned less/more frequently in households' ownership?",
     caption = cap,
     theme = theme(
-      plot.title = element_markdown(family = "Roboto Condensed", colour = "black", face = "bold",
+      plot.title = element_text(family = "Roboto Condensed", colour = "black", face = "bold",
+                                    size = 25, hjust = 0.5, margin = margin(t = 5, b = 5)),
+      plot.subtitle = element_markdown(family = "Roboto Condensed", colour = "#a13a0b",
                                     size = 20, hjust = 0.5, margin = margin(t = 5, b = 5)),
-      plot.caption = element_markdown(colour = 'blue', hjust = 0.5, size = 12,
+      plot.caption = element_markdown(colour = 'blue', hjust = 0.5, size = 13,
                                       family = 'Rosario', margin = margin(t = 20)),
-      plot.margin = margin(b = 10, t = 30, r = 20, l = 20)))
+      plot.margin = margin(b = 10, t = 25, r = 20, l = 20)))
 
 ggsave("safi_items.png", height=8, width=14, bg = "#F9F9F9")
-
