@@ -6,7 +6,7 @@
 
 ![safi_items](https://github.com/manassehoduor/TidyTuesday/assets/20558188/c0e85678-c2f9-45b8-934b-07bc7cf3da41)
 
-![items_member](https://github.com/manassehoduor/TidyTuesday/assets/20558188/50826740-0397-47f4-a900-ec2776dffc99)
+![items_member](https://github.com/manassehoduor/TidyTuesday/assets/20558188/4cf0d93d-b3de-4286-a341-38d2ff2313aa)
 
 ### [wk 23] - [Energy!](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_23)
 
