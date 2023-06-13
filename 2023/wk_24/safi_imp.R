@@ -1,4 +1,3 @@
-
 # load packages
 pacman::p_load(tidyverse, ggwordcloud, ggtext, showtext)
 
@@ -67,9 +66,9 @@ ggplot(item_freq, aes(label = Item, size = count, color = Item)) +
   geom_text_wordcloud_area(shape = "circle") +
   scale_size_area(max_size = 6) +
   theme_minimal() +
-  ggtitle("How does membership in an irrigation association relate to the items owned by households?") +
+  ggtitle("Studying African Farmer-Led Irrigation (SAFI) \n How does membership in an irrigation association relate to the items owned by households?") +
   theme(
-    plot.title = element_text(size = 8, family = "Ubuntu Condensed", hjust = 0.5),
+    plot.title = element_text(size = 7, family = "Ubuntu Condensed", hjust = 0.5),
     text = element_text(size = 5.5, family = "Roboto Condensed"),
     plot.caption = element_markdown(colour = 'blue', hjust = 0.5, size = 4,
                                     family = 'Rosario', margin = margin(t = 20))) +
@@ -77,4 +76,3 @@ ggplot(item_freq, aes(label = Item, size = count, color = Item)) +
   labs(caption = cap)
 
 ggsave("items_member.png", height=3, width=4, bg = "#F9F9F9")
-
