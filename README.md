@@ -4,8 +4,6 @@
 
 ### [wk 25] - UFO Sightings
 
-![UFO_leaflet_map](https://github.com/manassehoduor/TidyTuesday/assets/20558188/ae72784b-323d-48d0-814c-4cd32e14055e)
-
 ![leaflet_map](https://github.com/manassehoduor/TidyTuesday/assets/20558188/b2329cfb-934a-406d-8f06-9e90443027aa)
 
 
