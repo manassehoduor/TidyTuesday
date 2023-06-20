@@ -2,7 +2,7 @@
 
 ## 2023
 
-### [wk 25] - UFO Sightings
+### [wk 25] - [UFO Sightings](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_25)
 
 ![leaflet_map](https://github.com/manassehoduor/TidyTuesday/assets/20558188/b2329cfb-934a-406d-8f06-9e90443027aa)
 
