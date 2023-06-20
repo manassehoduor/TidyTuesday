@@ -2,6 +2,10 @@
 
 ## 2023
 
+### [wk 25] - UFO Sightings
+
+![UFO_leaflet_map](https://github.com/manassehoduor/TidyTuesday/assets/20558188/ae72784b-323d-48d0-814c-4cd32e14055e)
+
 ### [wk 24] - [SAFI - Studying African Farmer-Led Irrigation](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_24)
 
 ![safi_items](https://github.com/manassehoduor/TidyTuesday/assets/20558188/cf7cefaf-1724-4c69-8ec1-07c6367d4088)
