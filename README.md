@@ -2,7 +2,7 @@
 
 ## 2023
 
-### [wk 26] - [US Populated Places]
+### [wk 26] - [US Populated Places](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_26)
 
 ![US_country_clubs](https://github.com/manassehoduor/TidyTuesday/assets/20558188/70517440-20dd-4f65-9921-f91f87315969)
 
