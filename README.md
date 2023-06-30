@@ -4,7 +4,7 @@
 
 ### [wk 26] - [US Populated Places](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_26)
 
-![US_country_clubs](https://github.com/manassehoduor/TidyTuesday/assets/20558188/70517440-20dd-4f65-9921-f91f87315969)
+![US_country_clubs](https://github.com/manassehoduor/TidyTuesday/assets/20558188/61c9b85e-2a55-4fbf-963c-01dbed462a58)
 
 ### [wk 25] - [UFO Sightings](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_25)
 
