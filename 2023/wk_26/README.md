@@ -1,3 +1,4 @@
 ## US Populated Places
 
-![US_country_clubs](https://github.com/manassehoduor/TidyTuesday/assets/20558188/3183aacd-2d7d-461e-bfeb-1d8027133630)
+![US_country_clubs](https://github.com/manassehoduor/TidyTuesday/assets/20558188/d74b55b8-d78d-4508-ab46-410af81be014)
+
