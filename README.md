@@ -2,7 +2,7 @@
 
 ## 2023
 
-### [wk 27]- [https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_27]
+### [wk 27] - [Historical Markers](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_27)
 
 ![historical markers](https://github.com/manassehoduor/TidyTuesday/assets/20558188/2d9d1b3c-14af-4ae9-b98f-331c3dba474b)
 
