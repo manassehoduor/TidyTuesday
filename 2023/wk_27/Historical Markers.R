@@ -22,7 +22,7 @@ historical_markers <- readr::read_csv('https://raw.githubusercontent.com/rfordat
 no_markers <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-07-04/no_markers.csv')
 
 # data wrangle
-# Filter New York Historical Makers
+# Filter New York Historical Markers
 HM_NY <- historical_markers |>
   filter(state_or_prov == "New York")
 
