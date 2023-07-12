@@ -43,11 +43,11 @@ sh_temps_df_long <- sh_temps_df |>
 
 # merge
 merged_df <- bind_rows(
-  mutate(global_temps_df_long, surface = "Global"),
-  mutate(nh_temps_df_long, surface = "Northern hemisphere"),
-  mutate(sh_temps_df_long, surface = "Southern hemisphere")
-  mutate(Date = as.Date(paste(Year, Month, "01", sep = "-"), format = "%Y-%b-%d")) |>
-  drop_na()
+  mutate(global_temps_df_long, surface = "Global",
+         nh_temps_df_long, surface = "Northern hemisphere",
+         sh_temps_df_long, surface = "Southern hemisphere",
+         Date = as.Date(paste(Year, Month, "01", sep = "-"), format = "%Y-%b-%d")) |>
+  drop_na() 
   )
 
 # plot
