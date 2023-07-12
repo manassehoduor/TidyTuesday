@@ -6,6 +6,8 @@
 
 ![Global surface temperatures](https://github.com/manassehoduor/TidyTuesday/assets/20558188/beed22c0-1995-4c7e-9109-99e3d267ad36)
 
+![Global surface temperatures_2k](https://github.com/manassehoduor/TidyTuesday/assets/20558188/d67a6c49-ec36-4e55-87b4-02125bb732ec)
+
 ### [wk 27] - [Historical Markers](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_27)
 
 ![historical markers](https://github.com/manassehoduor/TidyTuesday/assets/20558188/2d9d1b3c-14af-4ae9-b98f-331c3dba474b)
