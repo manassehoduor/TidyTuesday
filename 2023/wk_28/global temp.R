@@ -16,7 +16,6 @@ cap <-  paste0("<span style='font-family:fb;'>&#xf09b;</span>",
                "<span style='font-family:Rosario;'> Manasseh Oduor   </span>",
                "<span style='font-family:fb;'>&#xf099; </span>  Manasseh_6 | Source: data.giss.nasa.gov | #TidyTuesday {wk:28}")
 
-
 # load data
 global_temps <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-07-11/global_temps.csv')
 nh_temps <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-07-11/nh_temps.csv')
@@ -47,9 +46,9 @@ merged_df <- bind_rows(
   mutate(global_temps_df_long, surface = "Global"),
   mutate(nh_temps_df_long, surface = "Northern hemisphere"),
   mutate(sh_temps_df_long, surface = "Southern hemisphere")
-) |>
   mutate(Date = as.Date(paste(Year, Month, "01", sep = "-"), format = "%Y-%b-%d")) |>
   drop_na()
+  )
 
 # plot
 merged_df |>
@@ -81,8 +80,7 @@ merged_df |>
     axis.text = element_text(color = "#282424", size = 15, family = "Roboto Condensed"),
     strip.text.x = element_text(face = "bold", family = "Roboto Condensed", size = 25, colour = "#de001b"),
     plot.title = element_markdown(hjust = 0.5, size = 40, color = "#282424", family = "Roboto Condensed",
-                                  lineheight = 0.8, face = "bold",
-                                  margin = margin(b=20, t=20, r=30, l=0)),
+                                  lineheight = 0.8, face = "bold", margin = margin(b=20, t=20, r=30, l=0)),
     plot.subtitle = element_markdown(hjust = 0.5, size = 25, color = "#282424", family = "Rosario",
                                      lineheight = 1, margin = margin(b=20, t=5, r=0, l=0)),
     plot.caption = element_markdown(hjust = 0.5, margin = margin(t =20, b=20), family = "Rosario",
@@ -98,5 +96,3 @@ merged_df |>
   )
 
 ggsave("Global surface temperatures.png", height = 15, width = 18)
-
-
