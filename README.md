@@ -2,6 +2,10 @@
 
 ## 2023
 
+### [wk 29] - GPT Detectors
+
+![GPT Detectors](https://github.com/manassehoduor/TidyTuesday/assets/20558188/e4e00716-2480-4aa5-b4ba-854c5c080132)
+
 ### [wk_28] - [Global Surface Temperatures](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_28)
 
 ![Global surface temperatures](https://github.com/manassehoduor/TidyTuesday/assets/20558188/beed22c0-1995-4c7e-9109-99e3d267ad36)
