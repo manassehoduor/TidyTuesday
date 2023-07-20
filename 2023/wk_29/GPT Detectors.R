@@ -26,8 +26,7 @@ detectors_df <- detectors |>
   count(kind, .pred_class, name = 'Freq') |>
   clean_names() |>
   summarise(n = sum(freq), .by = c(kind, pred_class)) |>
-  group_by(kind) |>
-  mutate(percent = round(prop.table(n) * 100, 0))
+  mutate(percent = round(prop.table(n) * 100, 0), .by = kind)
 
 # waffle chart 1: Human Essays
 wf1 = detectors_df |> 
