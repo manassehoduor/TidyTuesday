@@ -2,7 +2,7 @@
 
 ## 2023
 
-### [wk 29] - GPT Detectors
+### [wk 29] - [GPT Detectors](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_29) 
 
 ![GPT Detectors](https://github.com/manassehoduor/TidyTuesday/assets/20558188/e4e00716-2480-4aa5-b4ba-854c5c080132)
 
