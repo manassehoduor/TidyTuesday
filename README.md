@@ -4,6 +4,8 @@
 
 ### [wk 38] - [English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_38)
 
+[English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_38/Monarch.png)
+
 ## 2023
 
 ### [wk 29] - [GPT Detectors](https://github.com/manassehoduor/TidyTuesday/tree/main/2023/wk_29) 
