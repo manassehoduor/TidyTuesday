@@ -16,7 +16,7 @@ showtext_auto(enable = TRUE)
 cap <-  paste0("<span style='font-family:fb;'>&#xf09b;</span>",
                "<span style='font-family:sans;color:white;'></span>",
                "<span style='font-family:Rosario;'> Manasseh Oduor   </span>",
-               "<img src='C:/Users/Admin/OneDrive/Documents/R/#TidyTuesday/2024/TidyTuesday/X_logo_2023.svg.png' width='12'/> Manasseh_6 | #TidyTuesday #wk 38 2024")
+               "<img src='C:/Users/Admin/OneDrive/Documents/R/#TidyTuesday/2024/TidyTuesday/X_logo_2023.svg.png' width='12'/> Manasseh_6 | #TidyTuesday #wk 34 2024")
 
 # load data # Option 1
 tuesdata <- tidytuesdayR::tt_load(2024, week = 34)
