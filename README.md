@@ -1,6 +1,7 @@
 # TidyTuesday 
 
 ## 2024
+### [wk 34] - [The Power Rangers Franchise](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_35)
 
 ### [wk 34] - [English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_38)
 
