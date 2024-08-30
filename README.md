@@ -4,7 +4,7 @@
 ### [wk 35] - [The Power Rangers Franchise](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_35) 
 ### [Mighty Morphin Power Rangers App](https://sixflux.shinyapps.io/SixFlux_wk_35/)
 
-![The Power Rangers Franchise](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_35/power_rangers.png)
+![power_rangers_webshot](https://github.com/user-attachments/assets/41b6a4e6-993d-4c8d-b311-2e4e377cf453)
 
 ### [wk 34] - [English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_38)
 
