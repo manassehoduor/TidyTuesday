@@ -1,8 +1,7 @@
 # TidyTuesday 
 
 ## 2024
-### [wk 35] - [The Power Rangers Franchise](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_35)
-#### [App:](https://sixflux.shinyapps.io/SixFlux_wk_35/)
+### [wk 35] - [The Power Rangers Franchise](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_35) [App:](https://sixflux.shinyapps.io/SixFlux_wk_35/)
 
 ![The Power Rangers Franchise](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_35/power_rangers.png)
 
