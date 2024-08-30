@@ -2,4 +2,4 @@
 
 ### [Mighty Morphin Power Rangers App](https://sixflux.shinyapps.io/SixFlux_wk_35/)
 
-![power_rangers](https://github.com/user-attachments/assets/5173cfb2-1652-4190-bd2d-03abc89df9e8)
+![power_rangers_webshot](https://github.com/user-attachments/assets/e2253da7-44dc-430c-9379-92d7e72bab18)
