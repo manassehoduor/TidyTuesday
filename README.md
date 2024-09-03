@@ -1,6 +1,9 @@
 # TidyTuesday 
 
 ## 2024
+### [wk 36] - [Stack Overflow Annual Developer Survey 2024](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_36)
+![Stack_Overflow_Annual_Developer_Survey](https://github.com/user-attachments/assets/d71e0faa-e53e-4af5-aed3-62f9c6dad63e)
+
 ### [wk 35] - [The Power Rangers Franchise](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_35) 
 ### [Mighty Morphin Power Rangers App](https://sixflux.shinyapps.io/SixFlux_wk_35/)
 
