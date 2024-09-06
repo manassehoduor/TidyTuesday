@@ -68,7 +68,7 @@ med_salary <- survey_sof_df |>
   mutate(Role_lab = paste0(dev_type, " (n=", sample_size, ")"),
          Salary_lab = paste0("$", scales::comma(med_sal)),
          h_just = ifelse(med_sal < 800, -0.1, 1.2),
-         sal_col <- ifelse(med_sal < 800, "black", "white"))
+         sal_col = ifelse(med_sal < 800, "black", "white"))
 
 # Plot
 ggplot(med_salary, aes(x = reorder(dev_type, med_sal), y = med_sal)) +
