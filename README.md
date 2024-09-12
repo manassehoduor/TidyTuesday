@@ -1,6 +1,10 @@
 # TidyTuesday 
 
 ## 2024
+
+### [wk 37]- [Economic Diversity and Student Outcomes](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_37)
+![Economic Diversity and Student Outcomes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_37/College%20Admissions.png)
+
 ### [wk 36] - [Stack Overflow Annual Developer Survey 2024](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_36)
 ![Stack_Overflow_Annual_Developer_Survey](https://github.com/user-attachments/assets/d71e0faa-e53e-4af5-aed3-62f9c6dad63e)
 
