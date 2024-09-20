@@ -13,9 +13,9 @@
 
 ![power_rangers_webshot](https://github.com/user-attachments/assets/41b6a4e6-993d-4c8d-b311-2e4e377cf453)
 
-### [wk 34] - [English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_38)
+### [wk 34] - [English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_34/Monarch.png)
 
-![English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_38/Monarch_wk_34.png)
+![English Monarchs and Marriages](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_34/Monarch.png)
 
 ## 2023
 
