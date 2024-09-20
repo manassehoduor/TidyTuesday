@@ -2,6 +2,8 @@
 
 ## 2024
 
+### [wk 38] - [Shakespeare Dialogue](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_38)
+
 ### [wk 37]- [Economic Diversity and Student Outcomes](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_37)
 ![Economic Diversity and Student Outcomes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_37/College%20Admissions.png)
 
