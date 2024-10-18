@@ -2,6 +2,9 @@
 
 ## 2024
 
+### [wk 42] - [Southern Resident Killer Whale Encounters](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_42)
+![Southern Resident Killer Whale Encounters](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_42/orcas.png)
+
 ### [wk 38] - [Shakespeare Dialogue](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_38)
 ![Shakespeare Dialogue](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_38/Romeo%20%26%20Juliet.png)
 
