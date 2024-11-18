@@ -2,6 +2,10 @@
 
 ## 2024
 
+### [wk 46] - [ISO Country Codes](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_46)
+![ISO Country Codes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_46/ISO_CC.png)
+![ISO Country Codes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_46/ISO3.png)
+
 ### [wk 42] - [Southern Resident Killer Whale Encounters](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_42)
 ![Southern Resident Killer Whale Encounters](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_42/orcas.png)
 
