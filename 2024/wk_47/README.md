@@ -1,3 +1,3 @@
 ## Bob's Burgers Episodes
 
-![Burger](https://github.com/user-attachments/assets/7beefb89-032a-4b29-9f2c-50e056534983)
+![Burger](https://github.com/user-attachments/assets/f3ca6268-f0c0-436f-baf3-30fbdbc699ee)
