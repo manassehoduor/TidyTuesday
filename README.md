@@ -3,7 +3,7 @@
 ## 2024
 
 ### [wk 47] - [Bob's Burgers Episodes](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_47)
-![Bob's Burgers Episodes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_47/Burger.png)
+![Bob's Burgers Episodes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_47/Bob's%20Burgers%20Episodes.png)
 
 ### [wk 46] - [ISO Country Codes](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_46)
 ![ISO Country Codes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_46/ISO_CC.png)
