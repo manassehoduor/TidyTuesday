@@ -26,10 +26,10 @@ max_episode_df <- episode_df |>
   filter(avg_length == max_avg_length)
 
 # Plot
-ggplot(episode_df, aes(x = episode, y = factor(season), color = avg_length)) +
+ggplot(episode_df, aes(x = episode, y = season, color = avg_length)) +
   geom_text(aes(label = "\uf805", size = 10), family = "fa-solid", fontface = "plain") +
   scale_size_continuous(range = c(10, 10)) +
-  geom_point(data = max_episode_df, aes(x = episode, y = factor(season)), shape = 1, color = "white", size = 18, stroke = 0.5) +
+  geom_point(data = max_episode_df, aes(x = episode, y = season), shape = 1, color = "white", size = 18, stroke = 0.5) +
   scale_color_gradientn(
     colors = c("#D6A45E", "#FFB81C", "#D43F00", "#4F2C26"), # burger colors: Bun, Lettuce, Cheese, Tomato, Patty
     limits = c(21, 65),
