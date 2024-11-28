@@ -2,6 +2,9 @@
 
 ## 2024
 
+### [wk 48] - [U.S. Customs and Border Protection (CBP) Encounter](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_48)
+![U.S. Customs and Border Protection (CBP) Encounter](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_48/CBP.png)
+
 ### [wk 47] - [Bob's Burgers Episodes](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_47)
 ![Bob's Burgers Episodes](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_47/Bob's%20Burgers%20Episodes.png)
 
