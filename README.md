@@ -1,6 +1,8 @@
 # TidyTuesday 
 
 ## 2024
+### [wk 50] - [The Scent of Data - Exploring the Parfumo Fragrance Dataset](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_50)
+![The Scent of Data - Exploring the Parfumo Fragrance Dataset](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_treemap.png)
 
 ### [wk 48] - [U.S. Customs and Border Protection (CBP) Encounter](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_48)
 ![U.S. Customs and Border Protection (CBP) Encounter](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_48/CBP.png)
