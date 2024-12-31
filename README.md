@@ -1,6 +1,10 @@
 # TidyTuesday 
 
 ## 2024
+### [wk 53] - [James Beard Awards!](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/README.md)
+![James Beard Awards!](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rects.png)
+![James Beard Awards!](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rings.png)
+
 ### [wk 50] - [The Scent of Data - Exploring the Parfumo Fragrance Dataset](https://github.com/manassehoduor/TidyTuesday/tree/main/2024/wk_50)
 ![The Scent of Data - Exploring the Parfumo Fragrance Dataset](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_treemap.png)
 
