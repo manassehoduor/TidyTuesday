@@ -1,8 +1,10 @@
 # TidyTuesday 
 
 ## 2024
-<img width="2456" alt="#TidyTuesday 2024" src="https://github.com/user-attachments/assets/0120c02b-171c-4e26-8041-283ffc9ee98c" />
 
+### Gallery
+
+<img width="2456" alt="#TidyTuesday 2024" src="https://github.com/user-attachments/assets/12f2db8d-da1e-4585-8eaf-f2e7f52db3c0" />
 
 ### [wk 53] - [James Beard Awards!](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/README.md)
 ![James Beard Awards!](https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rects_edited.png)
