@@ -1,5 +1,10 @@
 # TidyTuesday 
 
+## 2025
+
+### [wk 01] - [Bring your own data: 2024 HSBC SVNS Series!](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_01)
+![Bring your own data: 2024 HSBC SVNS Series!](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_01/svns_2024.png)
+
 ## 2024
 
 ### Gallery
