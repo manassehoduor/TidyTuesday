@@ -2,6 +2,9 @@
 
 ## 2025
 
+### [wk 03] - [The History of Himalayan Mountaineering Expeditions](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_03)
+![The History of Himalayan Mountaineering Expeditions](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_03/Himalaya.png)
+
 ### [wk 02] - [posit::conf talks](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_02)
 ![posit::conf talks](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_02/posit%20conf.png)
 
