@@ -2,6 +2,9 @@
 
 ## 2025
 
+### [wk 04] - [Water Insecurity](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_04)
+![Water Insecurity](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_04/water_insecurity.png)
+
 ### [wk 03] - [The History of Himalayan Mountaineering Expeditions](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_03)
 ![The History of Himalayan Mountaineering Expeditions](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_03/Himalaya.png)
 
