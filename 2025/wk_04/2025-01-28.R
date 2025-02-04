@@ -30,7 +30,7 @@ h2o_insec_df <- h2o_insec |>
       percent_lacking_plumbing_2023 < percent_lacking_plumbing_2022 ~ "Improved",
       TRUE ~ "Stable")
     ) |> 
-  filter(min_rank(desc(diff)) <= 10 | min_rank(diff) <= 10) %>%
+  filter(min_rank(desc(diff)) <= 10 | min_rank(diff) <= 10) |>
   arrange(desc(diff))
 
 # Plot
