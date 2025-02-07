@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 05] - [The Simpsons](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_05)
+![The Simpsons](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_05/The%20Simpsons.png)
+
 ### [wk 04] - [Water Insecurity](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_04)
 ![Water Insecurity](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_04/water_insecurity.png)
 
