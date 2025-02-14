@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 06] - [CDC Datasets](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_06)
+![CDC Datasets](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_06/cdc_datasets.png)
+
 ## [wk 05] - [The Simpsons](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_05)
 ![The Simpsons](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_05/The%20Simpsons.png)
 
