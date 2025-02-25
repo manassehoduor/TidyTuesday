@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 07] - [Agencies from the FBI Crime Data API](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_07)
+![Agencies from the FBI Crime Data API](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_07/Agencies_hexgrid.png)
+
 ## [wk 06] - [CDC Datasets](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_06)
 ![CDC Datasets](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_06/cdc_datasets.png)
 
