@@ -4,4 +4,8 @@ This week we're exploring data on studies investigating racial and ethnic dispar
 
 "There has been increasing debate around how or if race and ethnicity should be used in medical research—including the conceptualization of race as a biological entity, a social construct, or a proxy for racism. The objectives of this narrative review are to identify and synthesize reported racial and ethnic inequalities in obstetrics and gynecology (ob/gyn) and develop informed recommendations for racial and ethnic inequity research in ob/gyn."
 
+Source: 
+https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-02-25/readme.md
+https://www.ajog.org/article/S0002-9378(24)00775-0/fulltext
+
 ![Disparities_Reproductive_Med](https://github.com/user-attachments/assets/4766ff7d-df59-49ae-86e3-82e299abe27b)
