@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 08] - [Academic Literature on Racial and Ethnic Disparities in Reproductive Medicine in the US](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_08)
+![Academic Literature on Racial and Ethnic Disparities in Reproductive Medicine in the US](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_08/Disparities_Reproductive_Med.png)
+
 ## [wk 07] - [Agencies from the FBI Crime Data API](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_07)
 ![Agencies from the FBI Crime Data API](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_07/Agencies_hexgrid.png)
 
