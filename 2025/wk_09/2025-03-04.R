@@ -33,7 +33,6 @@ stray_surv |>
   summarise(mean_surv = mean(percent),
             sum_surv = sum(count), .by = c(animal_type, survival_status))
 
-
 # Plot
 ggplot(stray_surv, aes(values = percent, fill = survival_status)) +
   geom_waffle(color = "white", size = 1.125, n_rows = 10) +
@@ -63,6 +62,5 @@ ggplot(stray_surv, aes(values = percent, fill = survival_status)) +
     plot.title = element_text(hjust = 0.5, size = 20, colour = "black", face = "bold", family = "Rosario", margin = margin(t=10,b=5)),
     plot.subtitle = element_markdown(family = "Rosario", size = 15, margin = margin(t=5,b=70))
   )
-
 
 ggsave("long_beach.png", height = 12, width = 8, bg = "white")
