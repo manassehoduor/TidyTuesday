@@ -4,8 +4,6 @@ pacman::p_load(tidyverse, waffle, ggtext, showtext)
 # Load Fonts
 font_add_google(name = "Rosario")
 font_add_google(name = "Roboto Condensed")
-font_add_google(name = "Averia Sans Libre")
-font_add_google(name = "Averia Serif Libre")
 
 showtext_opts(dpi = 300)
 showtext_auto(enable = TRUE)
