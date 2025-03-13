@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 09] - [Long Beach Animal Shelter](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_09)
+![Long Beach Animal Shelter](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_09/Long%20Beach%20Animal%20Shelter.png)
+
 ## [wk 08] - [Academic Literature on Racial and Ethnic Disparities in Reproductive Medicine in the US](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_08)
 ![Academic Literature on Racial and Ethnic Disparities in Reproductive Medicine in the US](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_08/Disparities_Reproductive_Med.png)
 
