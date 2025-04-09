@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 14] - [Timely and Effective Care by US State](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_14)
+![Timely and Effective Care by US State](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_14/Emergency%20waiting%20period.png)
+
 ## [wk 09] - [Long Beach Animal Shelter](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_09)
 ![Long Beach Animal Shelter](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_09/Long%20Beach%20Animal%20Shelter.png)
 
