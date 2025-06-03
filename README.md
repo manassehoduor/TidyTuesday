@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 22] - [Project Gutenberg](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_22)
+![Project Gutenberg](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_22/gutenberg.png)
+
 ## [wk 14] - [Timely and Effective Care by US State](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_14)
 ![Timely and Effective Care by US State](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_14/Emergency%20waiting%20period.png)
 
