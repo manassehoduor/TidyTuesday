@@ -1,4 +1,7 @@
 ## Project Gutenberg
+
+source: https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-06-03/readme.md
+
 This week we're exploring books from Project Gutenberg and the {gutenbergr} R package!
 
 [{gutenbergr} allows you to] Download and process public domain works in the Project Gutenberg collection https://www.gutenberg.org/. Includes metadata for all Project Gutenberg works, so that they can be searched and retrieved.
