@@ -4,6 +4,7 @@
 
 ## [wk 25] - [Measles cases across the world](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_25)
 ![Measles cases across the world](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_25/measles_animation.gif)
+![Measles cases across the world](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_25/measles_africa_map.png)
 
 ## [wk 22] - [Project Gutenberg](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_22)
 ![Project Gutenberg](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_22/gutenberg.png)
