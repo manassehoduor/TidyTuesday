@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 26] - [Weekly US Gas Prices](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_26)
+![Weekly US Gas Prices](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_26/US_Gas_Prices.png)
+
 ## [wk 25] - [Measles cases across the world](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_25)
 ![Measles cases across the world](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_25/measles_animation.gif)
 ![Measles cases across the world](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_25/measles_africa_map.png)
