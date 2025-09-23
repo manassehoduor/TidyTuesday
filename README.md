@@ -1,6 +1,8 @@
 # TidyTuesday 
 
 ## 2025
+## [wk 38] - [FIDE Chess Player Ratings](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_38)
+![FIDE Chess Player Ratings](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_38/chess_rankings.png)
 
 ## [wk 37] - [Allrecipes](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_37)
 ![Allrecipes](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_37/allrecipes_comparison.png)
