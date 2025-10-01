@@ -1,6 +1,10 @@
 # TidyTuesday 
 
 ## 2025
+
+## [wk 39] - [Crane Observations at Lake Hornborgasjön, Sweden (1994–2024)](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_39)
+![Crane Observations at Lake Hornborgasjön, Sweden (1994–2024)](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_39/Cranes.png)
+
 ## [wk 38] - [FIDE Chess Player Ratings](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_38)
 ![FIDE Chess Player Ratings](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_38/chess_rankings.png)
 
