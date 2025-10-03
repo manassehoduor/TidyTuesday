@@ -85,8 +85,7 @@ tips <- vanes |>
 # Plot
 ggplot() +
   # Shaft
-  annotate("segment",
-           x = 0, xend = 0, y = -2, yend = 2, linewidth = 0.8, color = "black") +
+  annotate("segment", x = 0, xend = 0, y = -2, yend = 2, linewidth = 0.8, color = "black") +
   # Vanes
   geom_bezier(data = vanes, aes(x = x, y = y, group = group, linewidth = strength, color = avg_count), alpha = 0.85, lineend = "round") +
   scale_color_gradient(
