@@ -1,3 +1,3 @@
 # Australian Frogs
 
-<img width="3600" height="2400" alt="frogs" src="https://github.com/user-attachments/assets/e00fc647-35e0-4cd1-8bdb-f4825ae56e09" />
+<img width="3506" height="2995" alt="Australian_frogs" src="https://github.com/user-attachments/assets/c52e8825-1ef2-4070-b49e-3e5c9a86ba21" />
