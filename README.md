@@ -11,6 +11,9 @@
 ## [wk 37] - [Allrecipes](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_37)
 ![Allrecipes](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_37/allrecipes_comparison.png)
 
+## [wk 36] - [Henley Passport Index](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_36)
+![Henley Passport Index](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_36/africa_passports.png)
+
 ## [wk 35] - [Australian Frogs](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_35)
 ![Australian Frogs](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_35/Australian_frogs.png)
 
