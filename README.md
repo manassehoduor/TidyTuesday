@@ -11,6 +11,9 @@
 ## [wk 37] - [Allrecipes](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_37)
 ![Allrecipes](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_37/allrecipes_comparison.png)
 
+## [wk 35] - [Australian Frogs](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_35)
+![Australian Frogs](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_35/Australian_frogs.png)
+
 ## [wk 26] - [Weekly US Gas Prices](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_26)
 ![Weekly US Gas Prices](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_26/US_Gas_Prices.png)
 
