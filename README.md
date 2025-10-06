@@ -2,6 +2,10 @@
 
 ## 2025
 
+## [wk 40] - [EuroLeague Basketball](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_40)
+![EuroLeague Basketball](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_40/Euroleague%20basketball.png)
+
+
 ## [wk 39] - [Crane Observations at Lake Hornborgasjön, Sweden (1994–2024)](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_39)
 ![Crane Observations at Lake Hornborgasjön, Sweden (1994–2024)](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_39/Cranes.png)
 
