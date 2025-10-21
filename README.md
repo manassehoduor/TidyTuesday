@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 42] - [Historic UK Meteorological & Climate Data](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_42)
+![Historic UK Meteorological & Climate Data](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_42/UK%20Sunshine.png)
+
 ## [wk 40] - [EuroLeague Basketball](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_40)
 ![EuroLeague Basketball](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_40/Euroleague%20basketball.png)
 
