@@ -141,7 +141,7 @@ ggplot(prizes_df3, aes(x = year_d, y = awards_cat_num)) +
     plot.margin = margin(t=10,b=10,l=10,r=10)
   )
 
-ggsave("UK_Literary_Prizes.png", height = 12, width = 12, dpi = 320, bg = "#F9F5F0")
+ggsave("UK_Literary_Prizes.png", height = 12, width = 12, bg = "#F9F5F0")
 
 # GPI
 gpi_yearly <- prizes_df |>
@@ -231,4 +231,4 @@ ggplot(gpi_df) +
     subtitle = "1991–2022"
   )
 
-ggsave("GPI_UK_Literary_Prizes.png", height = 3, width = 5, dpi = 320, bg = "#F9F5F0")
+ggsave("GPI_UK_Literary_Prizes.png", height = 3, width = 5, bg = "#F9F5F0")
