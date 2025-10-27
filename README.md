@@ -2,12 +2,14 @@
 
 ## 2025
 
+## [wk 43] - [Selected British Literary Prizes (1990-2022)](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_43)
+![Selected British Literary Prizes (1990-2022)](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_43/UK%20Literary%20Awards.png)
+
 ## [wk 42] - [Historic UK Meteorological & Climate Data](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_42)
 ![Historic UK Meteorological & Climate Data](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_42/UK%20Sunshine.png)
 
 ## [wk 40] - [EuroLeague Basketball](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_40)
 ![EuroLeague Basketball](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_40/Euroleague%20basketball.png)
-
 
 ## [wk 39] - [Crane Observations at Lake Hornborgasjön, Sweden (1994–2024)](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_39)
 ![Crane Observations at Lake Hornborgasjön, Sweden (1994–2024)](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_39/Cranes.png)
