@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 44] - [Lead concentration in Flint water samples in 2015](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_44)
+![Lead concentration in Flint water samples in 2015](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_44/Flint%20Water.png)
+
 ## [wk 43] - [Selected British Literary Prizes (1990-2022)](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_43)
 ![Selected British Literary Prizes (1990-2022)](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_43/UK%20Literary%20Awards.png)
 
