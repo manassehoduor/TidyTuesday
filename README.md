@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 45] - [WHO TB Burden Data: Incidence, Mortality, and Population](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_45)
+![WHO TB Burden Data: Incidence, Mortality, and Population](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_45/tb_mortality.png)
+
 ## [wk 44] - [Lead concentration in Flint water samples in 2015](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_44)
 ![Lead concentration in Flint water samples in 2015](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_44/Flint%20Water.png)
 
