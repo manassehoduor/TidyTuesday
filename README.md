@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 48] - [Boeoegg](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_48)
+![Boeoegg](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_48/Boogg.png)
+
 ## [wk 45] - [WHO TB Burden Data: Incidence, Mortality, and Population](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_45)
 ![WHO TB Burden Data: Incidence, Mortality, and Population](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_45/tb_mortality.png)
 
