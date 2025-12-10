@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 49] - [Cars in Qatar](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_49)
+![Cars in Qatar](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_49/Qatarcars.png)
+
 ## [wk 48] - [Boeoegg](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_48)
 ![Boeoegg](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_48/Boogg.png)
 
