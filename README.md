@@ -2,6 +2,9 @@
 
 ## 2025
 
+## [wk 50] - [Roundabouts across the world](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_50)
+![Roundabouts across the world](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_50/roundabouts.png)
+
 ## [wk 49] - [Cars in Qatar](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_49)
 ![Cars in Qatar](https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_49/Qatarcars.png)
 
