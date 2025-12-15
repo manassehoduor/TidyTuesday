@@ -14,11 +14,11 @@ roundabouts_clean <- readr::read_csv('https://raw.githubusercontent.com/rfordata
 triomphe_france <- roundabouts_clean |> filter(grepl("Place Charles de Gaulle", name, ignore.case = TRUE), country == "France")
 swindon_magic_uk <- roundabouts_clean |> filter(grepl("magic", name, ignore.case = TRUE), country == "United Kingdom")
 
-# Define bb for the Arc de Triomphe and magic roundabout
+# Define bb for the Arc de Triomphe and Magic Roundabout
 location_coords_arc <- c(left = 2.29, bottom = 48.87, right = 2.30, top = 48.878)
 location_coords_magic <-c(left = -1.774, bottom = 51.561, right = -1.769, top = 51.564)
 
-# Get road features around the roundabout
+# Get road features connecting the roundabout
 streets_arc <- location_coords |>
   opq() |>
   add_osm_feature(key='highway',
@@ -95,5 +95,6 @@ p2 <- ggplot() +
       plot.title = element_text(family = "Urbanist", colour = "black", face = "bold", size = 30, hjust = 0.5, margin = margin(t=5, b=5)),
       plot.caption = element_markdown(colour = 'black', hjust = 0.5, size = 11, family = 'Urbanist', margin = margin(t= 10, b = 10)),
       plot.margin = margin(b=2, t=20, r=10, l=10)))
+
 
 ggsave("roundabouts.png", width = 10, height = 6, units = "in", dpi = 350)
