@@ -96,5 +96,4 @@ p2 <- ggplot() +
       plot.caption = element_markdown(colour = 'black', hjust = 0.5, size = 11, family = 'Urbanist', margin = margin(t= 10, b = 10)),
       plot.margin = margin(b=2, t=20, r=10, l=10)))
 
-
 ggsave("roundabouts.png", width = 10, height = 6, units = "in", dpi = 350)
