@@ -1,4 +1,8 @@
 # TidyTuesday 
+## 2026
+
+## [wk 2] - [The Languages of Africa](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_02)
+![The Languages of Africa](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_02/languages_africa.png)
 
 ## 2025
 
