@@ -1,6 +1,12 @@
 # TidyTuesday 
 ## 2026
 
+## [wk 6] - [The 2026 Winter Olympics!](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_06)
+![The 2026 Winter Olympics!](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_06/The_2026_Winter_Olympics.png)
+
+## [wk 5] - [Edible Plants Database](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_05)
+![Edible Plants Database](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_05/Edible_plants.png)
+
 ## [wk 2] - [The Languages of Africa](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_02)
 ![The Languages of Africa](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_02/languages_africa.png)
 
