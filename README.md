@@ -1,6 +1,9 @@
 # 2026 #TidyTuesday 
 ## 2026
 
+## [wk 7] - [Agricultural Production Statistics in New Zealand](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_07)
+![Agricultural Production Statistics in New Zealand](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_07/nz_livestock_production_soft.gif)
+
 ## [wk 6] - [The 2026 Winter Olympics!](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_06)
 ![The 2026 Winter Olympics!](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_06/The_2026_Winter_Olympics.png)
 
