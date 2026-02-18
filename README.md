@@ -13,6 +13,9 @@
 ## [wk 2] - [The Languages of Africa](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_02)
 ![The Languages of Africa](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_02/languages_africa.png)
 
+## [wk 1] - [BYOD](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_01)
+![BYOD](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_01/afcon.png)
+
 ## 2025
 
 ## [wk 51] - [The Languages of the World](https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_51)
