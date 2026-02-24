@@ -1,5 +1,8 @@
-# 2026 #TidyTuesday 
+# #TidyTuesday 
 ## 2026
+
+## [wk 8] - [Science Foundation Ireland Grants Commitments](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_08)
+![Science Foundation Ireland Grants Commitments](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_08/sfi_grants.png)
 
 ## [wk 7] - [Agricultural Production Statistics in New Zealand](https://github.com/manassehoduor/TidyTuesday/tree/main/2026/wk_07)
 ![Agricultural Production Statistics in New Zealand](https://github.com/manassehoduor/TidyTuesday/blob/main/2026/wk_07/nz_livestock_production_soft.gif)
