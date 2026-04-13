@@ -94,7 +94,6 @@ ggplot() +
   labs(
     title    = "Wings on the Wind",
     subtitle = "Wind velocity dictates Seabird abundance & Energy harvesting  \n in the Tasman Sea, New Zealand and Australian waters (1969–1990)",
-    caption  = "Graphic: Manasseh Oduor \n Source: Museum of New Zealand Te Papa Tongarewa"
-  )
+    caption  = "Graphic: Manasseh Oduor \n Source: Museum of New Zealand Te Papa Tongarewa")
 
 ggsave("bird_sighting_n.png", height = 10, width = 8, dpi = 400, bg = "#fff")
